@@ -1,1 +1,2 @@
-# currency-convertor
+My website is user-friendly and practical tool that enables real-time currency conversions between various denominations. With an intuitive interface, users can effortlessly select the source and target currencies from dropdown menus, enter the amount they wish to convert, and receive accurate results based on up-to-date exchange rates. 
+Check it Out:- https://slay-coder.github.io/currency-convertor/
